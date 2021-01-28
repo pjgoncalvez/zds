@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches the expected snapshot 1`] = `
+.c0 {
+  width: auto;
+  cursor: pointer;
+  text-align: center;
+  line-height: 1em;
+  height: 56px;
+  font-size: 24px;
+  padding-left: 26px 22px;
+  padding-right: 26px 22px;
+}
+
+<button
+  className="c0"
+  size="giant"
+>
+  Just a simple button
+</button>
+`;
