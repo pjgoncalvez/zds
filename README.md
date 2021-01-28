@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 The rationale behind this side-project is to practice my react skills and also go through some of the problems of implementing a design system.
 
 The main goals are:
-  - ✅  Configure a storybook with the built
+  - ✅  Configure a storybook with the built react components
   - ✅  Add storybook controls for all component stories (include accessibility tests tab)
   - ✅  Add storybook-cypress plug-in so cypress tests can interact with the storybook controls on the fly
   - ✅  Add visual tests for all stories
